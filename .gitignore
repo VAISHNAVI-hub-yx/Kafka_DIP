@@ -44,4 +44,6 @@ build/
 .DS_Store
 
 ### Scala ###
-.bsp/
+.bsp/Kafka_output.txt
+kafka_output.txt
+certs/
